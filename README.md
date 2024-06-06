@@ -8,14 +8,14 @@
   <a href="https://www.python.org/" align="left">
     <img src="https://cdn66.printdirect.ru/cache/product/26/35/6239603/tov/all/480z480_front_1009_0_0_0_5614f2aa57b291cb813562e1fd64.jpg"/ width=50 height=50>
   </a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" align="left">
+  <a href="https://scikit-learn.org/stable/" align="left">
     <img src="https://www.unitygroup.com/wp-content/uploads/2020/12/Scikit-learn_logo.jpg"/ width=50 height=50>
   </a>
   <a href="hhttps://catboost.ai/" align="left">
     <img src="https://jarcasting.com/img/org_logos/c/a/catboost.png"/ width=50 height=50>
     </a>
-    <a href="https://optuna.org/" align="left">
-      <img src="https://dl.acm.org/cms/asset/9c859475-4d73-42f6-9687-276e8016dd81/3292500.3330701.key.jpg"/ width=50 height=50>
+    <a href="https://numpy.org/" align="left">
+      <img src="https://numpy.org/images/logo.svg"/ width=50 height=50>
     </a>
   <a href="https://seaborn.pydata.org/" align="left">
     <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https:%2F%2Fblog.kakaocdn.net%2Fdn%2F4UIIH%2FbtqIH4tfonl%2FLyCOqYkmqKo1gFrogryni1%2Fimg.png"/ width=50 height=50>
