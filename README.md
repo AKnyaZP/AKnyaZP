@@ -38,7 +38,7 @@
 
 ### 🌍 Languages
 * 🇷🇺 Russian - Native
-* 🇬🇧 English  - B2
+* 🇬🇧 English  - C1
 
 ### Contacts
 
