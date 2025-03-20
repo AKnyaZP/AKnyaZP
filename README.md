@@ -35,6 +35,8 @@
 ### 👨‍🎓 Education
 * [NUST MISIS](https://en.misis.ru/) (Since 2022)
 * [Deep learning school](https://dls.samcs.ru/) (2023-2024)
+* ODS RL (2023)
+* ODS ML System Design (2023)
 
 ### 🌍 Languages
 * 🇷🇺 Russian - Native
